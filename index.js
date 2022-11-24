@@ -62,7 +62,7 @@ app.use("/api/v1/payment",paymentRoutes)
 
 // public test route 
 app.get("/", (req,res)=>{
-    res.send("Word counter wordpress  server running...")
+    res.send("Speakup AI  server running...")
     
 })
 
